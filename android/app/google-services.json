@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "886012631288",
+    "project_id": "balpum-b18bd",
+    "storage_bucket": "balpum-b18bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886012631288:android:c99ad32115d2b53cf1030d",
+        "android_client_info": {
+          "package_name": "com.balpum.bp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886012631288-94r8b45evvjlobs70ald3pb6iq545pbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJri4hL52tGwsC_6CZu182Q6N5QQZXQcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886012631288-94r8b45evvjlobs70ald3pb6iq545pbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886012631288-k1rchs779moqoolceaunvmm8utqs9chb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.balpum"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886012631288:android:c36280d4121376e8f1030d",
+        "android_client_info": {
+          "package_name": "com.example.bp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886012631288-sgp9rj3o8h1f2tqacp20na9clktgaft1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bp",
+            "certificate_hash": "f01ba3e8c8b8acfad742d2668e7cc7bd40343ff2"
+          }
+        },
+        {
+          "client_id": "886012631288-94r8b45evvjlobs70ald3pb6iq545pbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJri4hL52tGwsC_6CZu182Q6N5QQZXQcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886012631288-94r8b45evvjlobs70ald3pb6iq545pbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886012631288-k1rchs779moqoolceaunvmm8utqs9chb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.balpum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

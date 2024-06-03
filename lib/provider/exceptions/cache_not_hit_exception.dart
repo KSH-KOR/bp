@@ -1,0 +1,3 @@
+class CacheNotHitException implements Exception{
+  
+}

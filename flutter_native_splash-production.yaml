@@ -1,0 +1,8 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  image: assets/launcher_icon/balpum.jpg
+
+  android_12:
+    image: assets/launcher_icon/balpum.jpg
+
+  web: false
